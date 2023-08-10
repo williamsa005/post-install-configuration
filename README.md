@@ -40,6 +40,13 @@ osTicket has been successfully installed and setup as Anthony Help Desk.
 <img src="https://i.imgur.com/3NZdS4V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+Configure Roles
+
+  - Admin Panel -> Agents -> Roles
+  - Supreme Admin
+
+
 John Doe and Jane Doe have been created and added as new agents. I would repeat this process for additional roles, departments, and teams.
 </p>
 <br />
