@@ -72,4 +72,14 @@ Service Level Agreements (SLA) A, B, and C have been created. Each SLA has a dif
 <img src="https://i.imgur.com/YguwH1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+Configure Help Topics
+
+  - Admin Panel -> Manage -> Help Topics
+  - Business Critical Outage
+  - Personal Computer Issues
+  - Equipment Request
+  - Password Reset
+
+
 New help topics were created and added to my osTicket help desk.
