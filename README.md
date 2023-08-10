@@ -55,6 +55,15 @@ John Doe and Jane Doe have been created and added as new agents. I would repeat 
 <img src="https://i.imgur.com/TaZvB2w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+Configure SLA
+
+  - Admin Panel -> Manage -> SLA
+  - Sev-A (1 hour, 24/7)
+  - Sev-B (4 hours, 24/7)
+  - Sev-C (8 hours, business hours)
+
+  
 Service Level Agreements (SLA) A, B, and C have been created. Each SLA has a different grace period (hrs).
 </p>
 <br />
